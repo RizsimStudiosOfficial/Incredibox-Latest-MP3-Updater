@@ -2,3 +2,5 @@
 this is just the same as the fork from https://github.com/Joalor64GH/Incredibox-Latest expect just mp3 lol
 
 dont worry I will probably move this over to main one if I want to
+
+for the modding stuff go here: https://github.com/RizsimStudiosOfficial/Incredibox-Latest-Updater (android and pc only)
