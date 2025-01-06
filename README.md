@@ -1,4 +1,2 @@
-# incredibox-v9-ios-web
-ios web version  and it also works on safari 
-Not my game 
-play the game:https://incredibox-v9-ios.netlify.app/
+# Incredibox (0.7.0 Moddable) MP3 / IOS VERSION
+this is just the same as the fork from https://github.com/Joalor64GH/Incredibox-Latest expect just mp3 lol
